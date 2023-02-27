@@ -1,5 +1,10 @@
 import java.util.*;
 
+public static  void printer(){
+  System.out.println("jeet");
+
+}
+
 public static void main(String args[])
 {
   //print hello world.
