@@ -10,6 +10,8 @@ class Hello_World{
     //print hello world.
     System.out.println("Hello world !!!");
      System.out.println("Hello world2 !!!");
+    System.out.println("hello i am thuin !!!");
+    
     printer();
   }
 }
